@@ -18,7 +18,9 @@ A simple Python-based calculator that allows users to perform basic arithmetic o
 - ![image](https://github.com/user-attachments/assets/8c3d2979-4a4b-4d5b-ae1c-6e4eb5ecd62b)
 - ![image](https://github.com/user-attachments/assets/40ddef8c-c1c4-4c36-8d5f-31cfb8b293e9)
 
-- 
+
+## live Demo
+[Live Demo](https://kumarjha.streamlit.app/)
 
 
 
