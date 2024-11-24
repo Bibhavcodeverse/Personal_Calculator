@@ -34,7 +34,7 @@ def main():
     # Buttons with symbols (using Unicode escape sequences)
     buttons = [
         '7', '8', '9', '\u00F7',  # Division symbol ÷
-        '4', '5', '6', '',  # Plus symbol +
+        '4', '5', '6', '+',  # Plus symbol +
         '1', '2', '3', '\u00D7',  # Multiplication symbol ×
         '0', '.', '=', '\u2212',  # Minus symbol −
         'C'
